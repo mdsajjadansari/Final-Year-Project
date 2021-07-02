@@ -11,6 +11,6 @@ Pre-Requist :
 * Install ROS <a href="http://wiki.ros.org/melodic/Installation"> Click Here </a>
 >>> For System requirements look at <a href="https://github.com/mdsajjadansari/Final-Year-Project/blob/main/Project%20Report.pdf">Project Report</a> Page no. 4 for Gazebo and Page no. 6 for ROS
 
->> After Installing Gazebo & ROS 
->> run `gazebo final_World.sdf` in terminal
->> and insert `MYRobo`.
+> After Installing Gazebo & ROS 
+> run `gazebo final_World.sdf` in terminal
+> and insert `MYRobo`.
